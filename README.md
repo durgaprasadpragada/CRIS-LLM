@@ -275,17 +275,26 @@ All original dataset rights belong to their respective public sources.
 
 For questions regarding this dataset or research:
 
-Veerababu Reddy
+1. Veerababu Reddy
 
 Department of Computer Science and Engineering
-
+Vignan's Lara Institute of Technology and Science,
 Vignan's Foundation for Science, Technology & Research
 
-India
+Guntur, India
 
 Email:
-
 rveerababu_vlits@vignan.ac.in
+
+2. Pragada Durga Prasad
+
+Department of Master of Computer Applications
+Vignan's Lara Institute of Technology and Science.
+
+Guntur, India
+
+Email:
+durgaprasadpragada90@gmail.com
 
 ---
 
